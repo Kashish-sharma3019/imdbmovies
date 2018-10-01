@@ -1,0 +1,235 @@
+.root{
+	font-size:16px;
+}
+body,html{
+
+	height: 100%;
+
+}
+
+.search{
+	margin-left:20%;
+	margin-right:20%;
+	margin-top:20%;
+}
+.title{
+	margin-left:30vmax;
+	font-size:2rem;
+
+}
+.id{
+	margin-left:35vmax;
+	font-size:2rem;
+}
+.search2{
+	margin-left:20%;
+	margin-right:20%;
+	margin-top:20%;
+
+}
+.bg{
+	  height:  100%;
+
+       background-position: center;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    background-image: url(bg.jpg);
+
+}
+.k{
+	background-color:black;
+}
+.plot{
+	font-style:italic;
+	color:red;
+
+}
+.star1{
+	margin-top:2rem;
+	color:red;
+}
+.title1{
+	font-size:3rem;
+	font-style:italic;
+	font-weight:700;
+	color:red;
+	margin-left:35%;
+	margin-top:15%;
+}
+.title1:hover{
+	color:grey;
+}
+.Metascore{
+	margin-left:45%;
+	color:red;
+}
+.ImdbRating{
+	margin-left:3%;
+	color:red;
+}
+.type{
+	font-size:2rem;
+	text-align:center;
+	font-style:italic;
+	color:red;
+}
+.casting{
+	background-color:black;
+}
+.rating{
+	background-color:black;
+}
+.cast{
+	font-size:2rem;
+	color:red;
+	font-weight:;
+}
+.plot{
+	font-weight:bolder;
+}
+.star{
+	color:red;
+	font-size:2rem;
+}
+.ImdbVotes{
+	color:red;
+	margin-left:1%;
+}
+.t{
+	color:red;
+}
+.director{
+	color:red;
+}
+.dvd{
+	color:red;
+}
+.writer{
+	color:red;
+}
+.awards{
+	color:red;
+}
+.actor{
+	color:red;
+}
+.production{
+	color:red;
+}
+.website{
+	color:red;
+}
+.boxoffice{
+	color:red;
+
+}
+.parent{
+	background-color:grey;
+}
+.kashish{
+	background-color:#383838; 
+ 
+	height:100%;
+}
+.sharma{
+	background-color:grey;
+	height:100%;
+
+}
+.year{
+	color:red;
+}
+.country{
+	color:red;
+}
+.runtime{
+	color:red;
+}
+.genre{
+	color:red;
+}
+@media screen and (max-width:480px){
+
+.film1{
+	height:5rem;
+	margin-top:2rem;
+	width:100%;
+}
+.film2{
+	height:5rem;
+	margin-top:2rem;
+	margin-bottom:2rem;
+	}
+.star{
+	font-size:1rem;
+
+}
+.star1{
+	font-size:1.5rem;
+}
+.cast{
+	font-size:1.2rem;
+	font-weight:500;
+}
+.title2{
+	margin-left:30%;
+}
+.title{
+	margin-left:42vmax;
+	font-size:1.3rem;
+
+}
+.id{
+	margin-left:50vmax;
+	font-size:1.5rem;
+}
+.bg{
+	  height:  100%;
+	  
+       background-position: center;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    background-image: url(kashish.jpg);
+}
+.title1{
+	margin-left:25%;
+}
+@media screen and (min-width:480px) and (max-width:720px){
+
+
+	.film1{
+	height:6rem;
+	margin-top:2rem;
+}
+.film2{
+	height:6rem;
+	margin-top:2rem;
+	margin-bottom:2rem;
+	}
+	.star{
+	font-size:1.5rem;
+
+}
+.cast{
+	font-size:1.2rem;
+	font-weight:500;
+}
+.star1{
+	font-size:1.5rem;
+	}
+	.title{
+	margin-left:42vmax;
+	font-size:1.3rem;
+
+}
+.id{
+	margin-left:50vmax;
+	font-size:2.5rem;
+}
+}
